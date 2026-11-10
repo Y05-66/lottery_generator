@@ -88,6 +88,7 @@ lottery_generator_dev/
 ## 界面截图
 
 ### 💰 打赏支持
+
 **💡 如果各位老板用这个程序中了大奖，可以资助一下作者 😄**
 
 ![GUI界面](./2b03fe6db66eff23b3900ebf2b9bded2.jpg)
