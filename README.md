@@ -4,11 +4,6 @@
 
 > **合规声明**：本工具仅供个人参考，不投注、不预测、不保证中奖概率。彩票是随机事件，请理性购彩。
 
-![GUI界面](./2b03fe6db66eff23b3900ebf2b9bded2.jpg)
-![结果展示](./55d222ea48ef2fc586916a593d364f7d.jpg)
-
-> 💡 如果各位老板用这个程序中了大奖，可以资助一下作者 😄
-
 ---
 
 ## 功能特性
@@ -89,3 +84,10 @@ lottery_generator_dev/
 ├── lottery_generator_dev.md   # 开发文档
 └── requirements.txt
 ```
+
+## 界面截图
+
+![GUI界面](./2b03fe6db66eff23b3900ebf2b9bded2.jpg)
+![结果展示](./55d222ea48ef2fc586916a593d364f7d.jpg)
+
+> 💡 如果各位老板用这个程序中了大奖，可以资助一下作者 😄
